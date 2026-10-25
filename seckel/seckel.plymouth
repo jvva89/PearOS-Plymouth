@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=PearOS Seckel
+Description=Static boot screen
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/seckel
+ScriptFile=/usr/share/plymouth/themes/seckel/seckel.script
